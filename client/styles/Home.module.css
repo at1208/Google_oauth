@@ -1,0 +1,8 @@
+.loginbtn{
+  position: fixed;
+  right: 80px;
+  top:40px;
+}
+.loggedIn{
+  text-align: center;
+}
